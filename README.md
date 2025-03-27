@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehran</h1>
 <h3 align="center">A passionate backend and software developer from Iran</h3>
-
+<img align="right" alt="Mehran" width="400" src=" https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehranmohammadiii&label=Profile%20views&color=0e75b6&style=flat" alt="mehranmohammadiii" /> </p>
 
 - 🌱 I’m currently learning **Python language and Django framework**
