@@ -1,4 +1,4 @@
-<img align="left" alt="logo" width="1000" height="250" src="https://raw.githubusercontent.com/mehranmohammadiii/mehranmohammadiii/main/ab.png">  
+<img align="left" alt="logo" width="1000" height="250" src="https://raw.githubusercontent.com/mehranmohammadiii/mehranmohammadiii/main/abb.jpg">  
 <h1 align="center">Hi 👋, I'm Mehran</h1>
 <h3 align="center">A passionate backend and software developer from Iran</h3>
 <img align="right" alt="Mehran" width="380" src="https://raw.githubusercontent.com/mehranmohammadiii/mehranmohammadiii/main/news24.gif">  
