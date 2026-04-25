@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mehranmohammadiii](https://github.com/mehranmohammadiii)
 
-- ⚡ This is my LinkedIn account [www.linkedin.com/in/mehran-mohammadi-ceo](www.linkedin.com/in/mehran-mohammadi-ceo)  
+- ⚡ This is my LinkedIn account [www.linkedin.com/in/mehran-mohammadi-ceo](www.linkedin.com/in/mehran-mohammadi-ceo)   
 
 - 💬 Ask me about **Python and Django and Sql**
 
