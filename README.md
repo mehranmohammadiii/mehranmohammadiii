@@ -1,4 +1,4 @@
-<img align="left" alt="logo" width="1000" height="250" src="https://raw.githubusercontent.com/mehranmohammadiii/mehranmohammadiii/main/abb.jpg">  
+<img align="left" alt="logo" width="1000" height="250" src="https://raw.githubusercontent.com/mehranmohammadiii/mehranmohammadiii/main/abb.jpg">    
 <h1 align="center">Hi 👋, I'm Mehran</h1>
 <h3 align="center">A passionate backend and software developer from Iran</h3>
   
@@ -9,7 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mehranmohammadiii](https://github.com/mehranmohammadiii)
 
-- ⚡ This is my LinkedIn account [www.linkedin.com/in/mehran-mohammadi-ceo](www.linkedin.com/in/mehran-mohammadi-ceo)      
+- ⚡ This is my LinkedIn account [www.linkedin.com/in/mehran-mohammadi-ceo](www.linkedin.com/in/mehran-mohammadi-ceo
+)      
 
 - 💬 Ask me about **Python and Django and Sql**
 
