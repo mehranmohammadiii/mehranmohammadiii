@@ -3,7 +3,7 @@
 <h3 align="center">A passionate backend and software developer from Iran</h3>
   
 <img align="right" alt="Mehran" width="380" src="https://raw.githubusercontent.com/mehranmohammadiii/mehranmohammadiii/main/news24.gif">  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehranmohammadiii&label=Profile%20views&color=0e75b6&style=flat" alt="mehranmohammadiii" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehranmohammadiii&label=Profile%20views&color=0e75b6&style=flat" alt="mehranmohammadiii" /> </p>   
 
 - 🌱 I’m currently learning **Python language and Django framework**
 
@@ -19,7 +19,8 @@
 <h3 align="left">Connect with me:</h3>    
 <p align="left">
 <a href="https://linkedin.com/in/mehran mohammadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehran mohammadi" height="30" width="40" /></a>
-<a href="https://instagram.com/mehra.n.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehra.n.m" height="30" width="40" /></a>   
+<a href="https://instagram.com/mehra.n.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehra.n.m" height="30" width="40"
+ /></a>   
 </p>
 
 <h3 align="left">Languages and Tools:</h3>   
