@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mehranmohammaadiii@gmail.com**              
     
-<h3 align="left">Connect with me:</h3>              
+<h3 align="left">Connect with me:</h3>                
 <p align="left">
 <a href="https://linkedin.com/in/mehran mohammadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehran mohammadi" height="30" width="40" /></a>
 <a href="https://instagram.com/mehra.n.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehra.n.m" height="30" width="40"
