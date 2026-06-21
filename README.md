@@ -5,7 +5,7 @@
 <img align="right" alt="Mehran" width="380" src="https://raw.githubusercontent.com/mehranmohammadiii/mehranmohammadiii/main/news24.gif">  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehranmohammadiii&label=Profile%20views&color=0e75b6&style=flat" alt="mehranmohammadiii" /> </p>   
 
-- 🌱 I’m currently learning **Python language and Django framework**
+- 🌱 I’m currently learning **Python language and Django framework**    
 
 - 👨‍💻 All of my projects are available at [https://github.com/mehranmohammadiii](https://github.com/mehranmohammadiii)    
 
